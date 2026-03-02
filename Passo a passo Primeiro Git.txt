@@ -1,0 +1,10 @@
+Este teste é do dia 02/03/2026
+
+
+
+
+git branch -m master main --> Renomeie o branch local de “master” para “main”:
+git push origin main --> Atualize o branch remoto:
+git pull origin main --> Se der erro 
+git branch --set-upstream-to=origin/main main -- Defina “main” como o branch padrão local:
+git push origin --delete master --> (Opcional) Remova o branch “master” do remoto, se existir:
